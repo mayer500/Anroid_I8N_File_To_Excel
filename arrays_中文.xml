@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="errorCode">
+        <item>10=Oct</item>
+        <item>11=Nov</item>
+        <item>12=Dec</item>
+        <item>200=操作成功</item>
+        <item>403=未授权</item>
+        <item>500=服务器出错</item>
+        <item>41000=参数无效</item>
+        <item>41001=请输入邮箱/用户名</item>
+        <item>41002=请设置密码</item>
+        <item>41003=请再次输入密码</item>
+        <item>41004=两次输入的密码不一致</item>
+        <item>41005=请选择您的地区</item>
+        <item>41006=请选择您所在国家号</item>
+        <item>41007=请输入图形验证码</item>
+        <item>41008=请输入验证码</item>
+        <item>41009=请输入手机号</item>
+        <item>41010=请输入邮箱</item>
+        <item>41011=请选择币种</item>
+        <item>41012=请输入该币种地址</item>
+        <item>41013=请输入手机验证码</item>
+        <item>41014=请输入PIN</item>
+        <item>41015=请输入ID</item>
+        <item>41016=请输入ID</item>
+        <item>41017=请输入交易品种</item>
+        <item>41018=请输入订单ID</item>
+        <item>41019=请输入银行名称</item>
+        <item>41020=请输入分行</item>
+    </string-array>
+</resources>

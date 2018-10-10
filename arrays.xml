@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="errorCode">
+        <item>10=Oct</item>
+        <item>11=Nov</item>
+        <item>12=Dec</item>
+        <item>200=Success</item>
+        <item>403=Forbidden</item>
+        <item>500=Server error</item>
+        <item>41000=Invalid parameter</item>
+        <item>41001=Enter email/username</item>
+        <item>41002=Enter password</item>
+        <item>41003=Please re-enter password</item>
+        <item>41004=Inconsistent passwords</item>
+        <item>41005=Select Nationality</item>
+        <item>41006=Select Country Code</item>
+        <item>41007=Please enter image verification code</item>
+        <item>41008=Please enter verification code</item>
+        <item>41009=Please enter mobile number</item>
+        <item>41010=Please enter Email</item>
+        <item>41011=Please enter currency</item>
+        <item>41012=Please enter currency address</item>
+        <item>41013=Please enter phone verification code</item>
+        <item>41014=Please enter PIN</item>
+        <item>41015=Please input your ID/Passport</item>
+        <item>41016=Please input your ID/Passport</item>
+        <item>41017=Please input the trading category</item>
+        <item>41018=Please input the order ID</item>
+        <item>41019=Please enter bank name</item>
+        <item>41020=Please enter bank branch</item>
+    </string-array>
+</resources>
