@@ -4,9 +4,9 @@ Android的不同语言的strings.xml和arrays.xml文件，导出到一份Excel�
 
 ## 使用方法
 
- pip install xlrd
- pip install xlrd
- pip install googletrans
+- pip install xlrd
+- pip install xlrd
+- pip install googletrans
 
 
 - Main_XmlExchangeExcel文件的main方法中四个方法控制xml文件和excel文件的切换。
