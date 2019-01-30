@@ -3,6 +3,12 @@
 Android的不同语言的strings.xml和arrays.xml文件，导出到一份Excel文件。和Excel文件转换为对应的strings.xml和arrays.xml文件。
 
 ## 使用方法
+
+ pip install xlrd
+ pip install xlrd
+ pip install googletrans
+
+
 - Main_XmlExchangeExcel文件的main方法中四个方法控制xml文件和excel文件的切换。
 
 - 运行Main_XmlExchangeExcel文件就能生成对应的xml或导出excel文件。
